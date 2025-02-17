@@ -1,7 +1,7 @@
 <p align="center">
     <img 
         src="src\images\Wreck_It_Ralph.png"
-        style="width: 300px; height: auto; display: block; margin: 0 auto;" 
+        style="width: 200px; height: 300px; display: block; margin: 0 auto;" 
     />
 </p>
 
@@ -37,20 +37,19 @@ Durante o desenvolvimento deste projeto, foi muito interessante trabalhar com HT
 
 Além disso, aprender e aplicar estilos CSS foi uma experiência muito legal, pois pudemos ver como cada propriedade influencia no visual e na organização dos elementos. Utilizamos Flexbox para alinhar e distribuir os componentes de forma responsiva, trabalhamos com background-images para deixar o jogo mais imersivo e estilizamos os quadrados interativos, incluindo a adição de um inimigo através de uma classe específica.
 
+<img
+    src="src\images\tela vscode.PNG"
+  style="width: 500px; height: 300;"
+/>
+
 Foi muito interessante perceber como o CSS, combinado com HTML e JavaScript, permite criar uma interface dinâmica e envolvente. Pequenos ajustes fizeram uma grande diferença na aparência e na jogabilidade, reforçando a importância da estilização no desenvolvimento web.
 
 Esse projeto nos permitiu experimentar, testar novas ideias e melhorar a lógica de programação, tornando o aprendizado ainda mais envolvente e prático. 🚀
-</p>
 
-<p align="center">
-
-<img
-    src="src\images\tela vscode.PNG"
-/>
-</p>
-<p align="center">
 <img
     src="src\images\style.PNG"
+  style=" align: center; width: 500px; height: 300;"
 />
 </p>
+
 ---
